@@ -1,4 +1,4 @@
-<h1 height="40px"># Microservice Project</h1>
+# Microservice Project
 
 A simple microservice architecture using Node.js and Express. This project includes:
 - A central server (`server.js`)
