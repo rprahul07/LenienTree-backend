@@ -4,7 +4,7 @@ import bodyParser from "body-parser";
 import morgan from "morgan";
 import cors from "cors"
 import connectDb from "./db/db.js";
-import eventRoutes from"./eventRoutes.js"
+import eventRoutes from"./routes/eventRoutes.js"
 dotenv.config();
 
 const app=express();
